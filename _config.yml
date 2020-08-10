@@ -1,22 +1,22 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Sachin Sinha's website
 
 # Short description of your site
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Some Person
+author: Sachin Sinha
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Microsoft Azure: "www.microsoft.com"
+    - Learn Azure: "https://learn.microsoft.com"
+  Author's home: "https://sachinsinha.com"
 
 # --- Logo --- #
 
@@ -39,12 +39,12 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: sachinsinha
+  github: sinhasachin
+  twitter: sachinsinha
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: sachinsinha
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,7 +72,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "sachinsinha.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
